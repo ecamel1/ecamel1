@@ -1,15 +1,14 @@
 Hi 👋 My name is Emma Camelo
 ============================
 
-Upcoming Full Stack Developer
+Software Engineer
 -----------------------------
 
-An upcoming graduate at Towson University in Computer Science!
+I'm a graduate from Towson University in Computer Science!
 
 * 🌍  I'm based in Maryland
 * 🖥️  See my portfolio at [My Portfolio (Under Construction)](http://ecamel1.github.io/Portfolio/)
 * ✉️  You can contact me at [ecamel1@students.towson.edu](mailto:ecamel1@students.towson.edu)
-* 🧠  I'm learning React, MySQL, Solidity
 * 🤝  I'm open to collaborating on anything, just contact me
 * ⚡  I love cat
 
